@@ -1,0 +1,7 @@
+Acount:
++ Admin : 
+user: admin và pass : admin
++ Admin CN1 : 
+user: adminCN1 và pass : admincn1
++ Admin CN2: 
+user: adminCN2 và pass : admincn2
